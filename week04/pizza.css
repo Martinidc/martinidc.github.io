@@ -32,10 +32,11 @@ img{
 header{
   text-align: center;
   font-size: 25px;
+  color: #F1C40F;
   background-color: #E74C3C;
   margin-left: 250px;
   margin-right: 250px;
-  border-style: solid ;
+  border: solid black ;
 }
 
 
@@ -53,14 +54,13 @@ aside {
 }
 
 img:hover{
-  width: 180px;
-
-
+  width: 200px;
 }
 
 footer{
   background-color:#F1C40F;
   text-align: center;
+
 }
 
 html{
